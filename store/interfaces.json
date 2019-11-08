@@ -24,7 +24,8 @@
       "product-summary-brand",
       "product-summary-quantity",
       "product-summary-specification-badges",
-      "stack-layout"
+      "stack-layout",
+      "add-to-cart-button"
     ],
     "component": "ProductSummaryCustom",
     "composition": "children"
